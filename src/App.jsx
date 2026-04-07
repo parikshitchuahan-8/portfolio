@@ -69,7 +69,7 @@ const projects = [
     description:
       "AI-assisted examination platform built with React, Spring Boot, PostgreSQL, and JWT-secured APIs with a deployment story across Vercel, Render, and Neon.",
     stack: ["React", "Spring Boot", "JWT", "Groq", "Neon"],
-    live: "https://onlineexamination.vercel.app/login",
+    live: "https://onlineexamination.vercel.app/",
     repo: "https://github.com/parikshitchuahan-8/onlineexamination",
     extra: "https://github.com/parikshitchuahan-8/onlineexamination/blob/main/README.md",
     accent: "from-sky/20 via-mint/10 to-transparent",
