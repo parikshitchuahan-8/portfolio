@@ -1,4 +1,4 @@
-﻿import { motion } from "framer-motion";
+import { motion } from "framer-motion";
 import {
   ArrowUpRight,
   BrainCircuit,
@@ -50,6 +50,7 @@ const currentWork = [
 ];
 
 const projects = [
+  
   {
     title: "RentMyStuff",
     label: "Featured Build",
@@ -74,6 +75,20 @@ const projects = [
     extra: "https://github.com/parikshitchuahan-8/onlineexamination/blob/main/README.md",
     accent: "from-sky/20 via-mint/10 to-transparent",
   },
+
+  {
+    title: "Student Reel Platform",
+    label: "Full-Stack + AI",
+    year: "2026",
+    description:
+      "A student productivity and collaboration platform featuring AI-powered study planners, academic-only study reels with spaced-repetition quizzes, focus tracking, and study groups — powered by a three-service architecture across React, Spring Boot, and Python FastAPI.",
+    stack: ["React", "Spring Boot", "PostgreSQL", "FastAPI", "Groq AI", "Tailwind"],
+    live: "https://student-reel-platform.vercel.app/",
+    repo: "https://github.com/parikshitchuahan-8/student-reel-platform",
+    extra: "https://github.com/parikshitchuahan-8/student-reel-platform/blob/main/README.md",
+    accent: "from-mint/20 via-ember/10 to-transparent",
+  },
+
   {
     title: "JointHands",
     label: "Accessibility + AI",
