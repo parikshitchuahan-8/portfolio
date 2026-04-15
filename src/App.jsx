@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+﻿import { motion } from "framer-motion";
 import {
   ArrowUpRight,
   BrainCircuit,
@@ -71,21 +71,21 @@ const projects = [
       "AI-assisted examination platform built with React, Spring Boot, PostgreSQL, and JWT-secured APIs with a deployment story across Vercel, Render, and Neon.",
     stack: ["React", "Spring Boot", "JWT", "Groq", "Neon"],
     live: "https://vivaforge.vercel.app/",
-    repo: "https://github.com/parikshitchuahan-8/onlineexamination",
-    extra: "https://github.com/parikshitchuahan-8/onlineexamination/blob/main/README.md",
+    repo: "https://github.com/parikshitchuahan-8/vivaforge",
+    extra: "https://github.com/parikshitchuahan-8/vivaforge/blob/main/README.md",
     accent: "from-sky/20 via-mint/10 to-transparent",
   },
 
   {
-    title: "Student Reel Platform",
+    title: "Study Orbit",
     label: "Full-Stack + AI",
     year: "2026",
     description:
       "A student productivity and collaboration platform featuring AI-powered study planners, academic-only study reels with spaced-repetition quizzes, focus tracking, and study groups — powered by a three-service architecture across React, Spring Boot, and Python FastAPI.",
     stack: ["React", "Spring Boot", "PostgreSQL", "FastAPI", "Groq AI", "Tailwind"],
     live: "https://student-reel-platform.vercel.app/",
-    repo: "https://github.com/parikshitchuahan-8/student-reel-platform",
-    extra: "https://github.com/parikshitchuahan-8/student-reel-platform/blob/main/README.md",
+    repo: "https://github.com/parikshitchuahan-8/study-orbit",
+    extra: "https://github.com/parikshitchuahan-8/study-orbit/blob/main/README.md",
     accent: "from-mint/20 via-ember/10 to-transparent",
   },
 
@@ -102,7 +102,7 @@ const projects = [
     accent: "from-ember/20 via-sky/10 to-transparent",
   },
   {
-    title: "Drive Clone",
+    title: "Nimbus Drive",
     label: "Cloud Storage Clone",
     year: "2025",
     description:
